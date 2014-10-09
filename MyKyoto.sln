@@ -7,12 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyKyoto", "MyKyoto.vcxproj"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E71FA92-20DF-4649-B780-AF9DD95A68C7}.Debug|Win32.ActiveCfg = Debug|Win32
-		{4E71FA92-20DF-4649-B780-AF9DD95A68C7}.Debug|Win32.Build.0 = Debug|Win32
 		{4E71FA92-20DF-4649-B780-AF9DD95A68C7}.Release|Win32.ActiveCfg = Release|Win32
 		{4E71FA92-20DF-4649-B780-AF9DD95A68C7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
