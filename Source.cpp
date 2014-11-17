@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	if (!db.set("foo", "hop") ||
 		!db.set("bar", "step") ||
 		!db.set("baz", "jump")) {
-		cerr << "set error: " << db.error().name() << endl;
+		cerr << "set errorrrrrrrrrrr: " << db.error().name() << endl;
 	}
 
 	// retrieve a record
