@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cyou.mrd.dnf</string>
+				<string>com.cyou.tlbbc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>dnf</string>
+				<string>tlbbc</string>
 			</dict>
 		</dict>
 	</array>
